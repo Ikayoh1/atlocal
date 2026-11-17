@@ -1,0 +1,13 @@
+/.env
+/.env.*
+!/.env.example
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+*.log
+/backups/
+/data/
+/secrets/
+# Phase 0 spike: engine binaries, generated certificates/secrets, mail data, logs, results
+/var/
